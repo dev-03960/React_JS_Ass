@@ -1,0 +1,21 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This is a my course",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "author": "myname",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-import": "^1.13.6",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

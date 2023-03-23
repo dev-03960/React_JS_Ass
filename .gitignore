@@ -1,8 +1,3 @@
-
-.parcel-cache/
-dist/
-index.html
-index.js
-node_modules/
-package-lock.json
-package.json
+node_modules
+.parcel-cache
+dist
