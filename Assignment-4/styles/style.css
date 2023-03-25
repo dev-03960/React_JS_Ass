@@ -1,0 +1,36 @@
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    color: aliceblue;
+    padding-bottom: 0.1rem;
+    border-bottom: 0.1rem solid #a3ac74;
+    margin-top: 1.1rem;
+
+}
+.logo{
+
+    height: 2.1rem;
+}
+.middle{
+ border: 0.8px solid;
+ border-radius: 0.5rem;
+
+}
+.middle input{
+    background-color: rgb(192, 205, 216);
+    border: none;
+    padding: 0.5rem 0 0.1rem;
+    padding-bottom: 0.8rem;
+}
+.middle button{
+    padding: 0.4rem;
+    padding-bottom: 0.7rem;
+    cursor: pointer;
+}
+.right{
+    margin-right: 0.5rem;
+    
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
