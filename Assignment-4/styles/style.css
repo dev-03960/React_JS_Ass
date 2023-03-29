@@ -29,7 +29,6 @@
 }
 .right{
     margin-right: 0.5rem;
-    
     display: flex;
     align-content: center;
     flex-wrap: wrap;
